@@ -1040,6 +1040,11 @@ Mirah:
   - .mir
   - .mirah
 
+Modelica:
+  type: programming
+  color: "#800000"
+  primary_extension: .mo
+
 Monkey:
   type: programming
   lexer: Monkey
