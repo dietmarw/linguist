@@ -1042,6 +1042,7 @@ Mirah:
 
 Modelica:
   type: programming
+  lexer: Text only
   color: "#800000"
   primary_extension: .mo
 
@@ -1182,7 +1183,7 @@ PAWN:
   lexer: C++
   color: "#dbb284"
   primary_extension: .pwn
-  
+
 PHP:
   type: programming
   ace_mode: php
